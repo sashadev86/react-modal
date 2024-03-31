@@ -26,7 +26,7 @@
   npm run deploy
 ```
 
-### Deploy: [Modal](https://banditos86.github.io/react-modal/ "Modal")
+### Deploy: [Modal](https://sashadev86.github.io/react-modal/ "Modal")
 
 ### Результат:
 [![Modal button](https://github.com/BANDITOS86/my-img/blob/main/modal-button.png?raw=true)](https://sashadev86.github.io/react-modal/)
