@@ -5,9 +5,9 @@
 
 ### Демонстрация:
 
-* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://banditos86.github.io/react-modal/ "Modal"), либо скачать репозиторий из ветки dev:
+* Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/react-modal/ "Modal"), либо скачать репозиторий из ветки dev:
 ```javascript
-  https://github.com/BANDITOS86/react-modal/tree/dev
+  https://github.com/sashadev86/react-modal/tree/dev
 ```
 * После скачивания репозитория, для подтягивания всех зависимостей в терминале запустите команду:
 ```javascript
@@ -26,8 +26,8 @@
   npm run deploy
 ```
 
-### Deploy: [Modal](https://banditos86.github.io/react-modal/ "Modal")
+### Deploy: [Modal](https://sashadev86.github.io/react-modal/ "Modal")
 
 ### Результат:
-[![Modal button](https://github.com/BANDITOS86/my-img/blob/main/modal-button.png?raw=true)](https://banditos86.github.io/react-modal/)
-[![Modal view](https://github.com/BANDITOS86/my-img/blob/main/modal-view.png?raw=true)](https://banditos86.github.io/react-modal/)
+[![Modal button](https://github.com/BANDITOS86/my-img/blob/main/modal-button.png?raw=true)](https://sashadev86.github.io/react-modal/)
+[![Modal view](https://github.com/BANDITOS86/my-img/blob/main/modal-view.png?raw=true)](https://sashadev86.github.io/react-modal/)
