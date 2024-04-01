@@ -7,7 +7,7 @@
 
 * Для демонстрации проекта можно перейти по ссылке и просмотреть [deploy](https://sashadev86.github.io/react-modal/ "Modal"), либо скачать репозиторий из ветки dev:
 ```javascript
-  https://github.com/BANDITOS86/react-modal/tree/dev
+  https://github.com/sashadev86/react-modal/tree/dev
 ```
 * После скачивания репозитория, для подтягивания всех зависимостей в терминале запустите команду:
 ```javascript
